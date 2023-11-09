@@ -27,13 +27,13 @@
       <RangedWeapon_Cooldown>1.2</RangedWeapon_Cooldown>
     </statBases>
     <recipeMaker>
+      <skillRequirements>
+        <Crafting>8</Crafting>
+      </skillRequirements>
       <recipeUsers Inherit="False">
         <li>FabricationBench</li>
       </recipeUsers>
       <displayPriority>180</displayPriority>
-      <skillRequirements>
-        <Crafting>7</Crafting>
-      </skillRequirements>
     </recipeMaker>
     <costList>
       <Steel>30</Steel>
@@ -117,13 +117,13 @@
       <RangedWeapon_Cooldown>1.00</RangedWeapon_Cooldown>
     </statBases>
     <recipeMaker>
+      <skillRequirements>
+        <Crafting>8</Crafting>
+      </skillRequirements>
       <recipeUsers Inherit="False">
         <li>FabricationBench</li>
       </recipeUsers>
       <displayPriority>180</displayPriority>
-      <skillRequirements>
-        <Crafting>7</Crafting>
-      </skillRequirements>
     </recipeMaker>
     <costList>
       <Steel>30</Steel>
@@ -209,13 +209,13 @@
       <RangedWeapon_Cooldown>1.5</RangedWeapon_Cooldown>
     </statBases>
     <recipeMaker>
+      <skillRequirements>
+        <Crafting>8</Crafting>
+      </skillRequirements>
       <recipeUsers Inherit="False">
         <li>FabricationBench</li>
       </recipeUsers>
       <displayPriority>180</displayPriority>
-      <skillRequirements>
-        <Crafting>7</Crafting>
-      </skillRequirements>
     </recipeMaker>
     <costList>
       <Steel>30</Steel>
@@ -334,8 +334,7 @@
       <li>MeleeBlunt</li>
     </weaponClasses>
     <costList>
-      <Steel>25</Steel>
-      <Plasteel>10</Plasteel>
+      <Steel>30</Steel>
       <ComponentSpacer>3</ComponentSpacer>
     </costList>
     <statBases>
@@ -344,7 +343,10 @@
     </statBases>
     <equippedAngleOffset>-65</equippedAngleOffset>
     <recipeMaker>
-      <recipeUsers>
+      <skillRequirements>
+        <Crafting>8</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
         <li>FabricationBench</li>
       </recipeUsers>
       <displayPriority>300</displayPriority>
