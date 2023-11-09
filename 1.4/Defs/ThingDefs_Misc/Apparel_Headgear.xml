@@ -15,6 +15,7 @@
       <recipeUsers Inherit="False">
         <li>FabricationBench</li>
       </recipeUsers>
+      <displayPriority>100</displayPriority>
     </recipeMaker>
     <graphicData>
       <texPath>Things/Pawn/Humanlike/Apparel/SuppressorMask/SuppressorMask</texPath>
@@ -60,6 +61,9 @@
       <defaultOutfitTags>
         <li>Soldier</li>
       </defaultOutfitTags>
+      <tags>
+        <li>SpacerMilitary</li>
+      </tags>
       <useDeflectMetalEffect>true</useDeflectMetalEffect>
     </apparel>
     <colorGenerator Class="ColorGenerator_Options">
@@ -92,18 +96,5 @@
     <thingSetMakerTags>
       <li>RewardStandardHighFreq</li>
     </thingSetMakerTags>
-    <apparel>
-      <tags>
-        <li>SpacerMilitary</li>
-      </tags>
-    </apparel>
-    <tradeTags>
-      <li>Armor</li>
-    </tradeTags>
-    <recipeMaker>
-      <displayPriority>100</displayPriority>
-    </recipeMaker>
-    
   </ThingDef>
-  
 </Defs>
