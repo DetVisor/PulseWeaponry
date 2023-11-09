@@ -1,9 +1,0 @@
-<loadFolders>
-	<v1.4>
-		<li>/</li>
-		<li>1.4</li>
-		<li IfModActive="smartkar.athenaframework">1.4/Mods/AthenaSlugger</li>		
-		<li IfModActive="Ludeon.RimWorld.Royalty">1.4/Mods/PersonaChainsword</li>	
-		<li IfModActive="OskarPotocki.VFE.Pirates">1.4/Mods/ImpactBolter</li>	
-	</v1.4>
-</loadFolders>
