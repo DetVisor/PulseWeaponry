@@ -45,8 +45,8 @@
       <ShootingAccuracyPawn>1.5</ShootingAccuracyPawn>
     </equippedStatOffsets>
     <costList>
-      <ComponentSpacer>1</ComponentSpacer>
-      <Plasteel>40</Plasteel>
+      <ComponentSpacer>3</ComponentSpacer>
+      <Plasteel>65</Plasteel>
     </costList>
     <apparel>
       <bodyPartGroups>
@@ -85,6 +85,9 @@
     </colorGenerator>
     <comps>
       <li Class="CompProperties_Biocodable"/>
+      <li Class="AthenaFramework.CompProperties_CustomApparelBody">
+        <hideHead>true</hideHead>
+      </li>
     </comps>
     <thingSetMakerTags>
       <li>RewardStandardHighFreq</li>
