@@ -90,7 +90,7 @@
     <comps>
       <li Class="CompProperties_Biocodable"/>
       <li Class="AthenaFramework.CompProperties_CustomApparelBody">
-        <hideHead>true</hideHead>
+        <forcedHeadtype>Male_AverageNormal</forcedHeadtype>
       </li>
     </comps>
     <thingSetMakerTags>
