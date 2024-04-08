@@ -5,10 +5,10 @@
 	<author>DetVisor</author>
 	<supportedVersions>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
 	<packageId>detvisor.pulseweaponry</packageId>
-	<description>A mod that adds a large set of powerful proto-ultra pulse weapons, capable of piercing through the thickest materials with extreme accuracy!
-	</description>
+	<description>A mod that adds a large set of powerful proto-ultra pulse weapons, capable of piercing through the thickest materials with extreme accuracy!</description>
 	<modDependencies>
 		<li>
 		  <packageId>smartkar.athenaframework</packageId>
